@@ -11,10 +11,9 @@ Esta é uma API CRUD simples que gerencia uma tabela de cadastros em um banco de
 ## Configuração
 
 1. Clone o repositório:
-atenção: se o projeto todo foi clonado corretamente com as dependencias como node_modules, package.json, etc. Não é necessario seguir o passo 2.
+atenção! se o projeto todo foi clonado corretamente com as dependencias como node_modules, package.json, etc. Não é necessario seguir o passo 2.
    ```shell
-   git clone
-   https://github.com/Gi0Dev/api-crud.git
+   git clone https://github.com/Gi0Dev/api-crud.git
   
 2. Instalação e dependências:
 
