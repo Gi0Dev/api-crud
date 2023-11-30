@@ -1,6 +1,6 @@
 const Cadastro = require('../models/cadastro');
 
-//Cadastro.sync({force: true}); //codigo para criar a tabela no banco de dados, deve ser executado só uma vez por tabela
+Cadastro.sync({force: true}); //codigo para criar a tabela no banco de dados, deve ser executado só uma vez por tabela
 
 exports.criarCadastro = async (req, res) =>{
 
